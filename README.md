@@ -18,13 +18,13 @@ Using [homebrew](https://brew.sh/), install `pyenv`:
 
     brew install pyenv
 
-Then use `pyenv` to install the most Python `3.7.x` version (currently `3.7.4`):
+Then use `pyenv` to install the most Python `3.7.x` version (currently `3.7.6`):
 
-    pyenv install 3.7.4
+    pyenv install 3.7.6
 
 And switch to using this version by default whenever you use `pyenv`:
 
-    pyenv global 3.7.4
+    pyenv global 3.7.6
 
 
 ### Install virtualenvwrapper (global)
